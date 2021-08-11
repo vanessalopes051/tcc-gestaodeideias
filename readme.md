@@ -42,8 +42,8 @@
 
 <h2>Ferramenta</h2>
 <p>A ferramenta possui 4 níveis de acesso, a saber: colaborador, equipe de inovação, revisor e patrocinador.</p>
-1. O colaborador é responsável pela submissão de novas ideias
-2. A equipe de inovação é incumbida de realizar os primeiros processos de avaliação das ideias.
-3. Os revisores realizam a avaliação de viabilidade
-4. Os patrocinadores realizam a seleção de ideias para eventual patrocínio e implementação.
+1. O colaborador é responsável pela submissão de novas ideias <br>
+2. A equipe de inovação é incumbida de realizar os primeiros processos de avaliação das ideias. <br>
+3. Os revisores realizam a avaliação de viabilidade <br>
+4. Os patrocinadores realizam a seleção de ideias para eventual patrocínio e implementação.  <br>
 
