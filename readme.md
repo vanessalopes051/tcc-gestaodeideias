@@ -18,9 +18,32 @@
 <p>Este artigo objetiva apresentar o desenvolvimento de uma ferramenta para automatização do processo de gestão de ideias e, por fim, avaliar o modelo de processo utilizado por meio da aplicação prática da ferramenta desenvolvida.</p>
 
 <h2>Metodologia</h2>
+<p>Para conduzir o desenvolvimento deste estudo, foi definida uma metodologia composta de fases detalhadas na Figura 1:</p>
+
+<img src="https://user-images.githubusercontent.com/54334704/129065942-67b1323a-c418-42dd-a2c0-153a7e513da3.png" alt="Metodologia"/>
+
+<h3>Modelagem do sistema</h3>
+<h4><li>Diagrama de classes</li></h4>
+
+<img src="https://user-images.githubusercontent.com/54334704/129067641-b7c2873e-4bcf-4543-bed0-084e8b239ccd.png" alt="Diagrama de Classes"/>
+<br>
+
+<h4><li>Diagrama de Processo de Gestão de Ideias</li></h4>
+<img src="https://user-images.githubusercontent.com/54334704/129067709-c377115e-0810-453a-a8f3-ba22d3976e84.png" alt="Diagrama de Classes"/>
+
+
+<h3>Tecnologias Utilizadas</h3>
+<li>PHP</li>
+<li>HTML 5</li>
+<li>CSS3</li>
+<li>Bootstrap 4.3.1</li>
+<li>ECMAScript 2015</li>
+<li>MariaDB 10.4.6</li>
 
 <h2>Ferramenta</h2>
-<p>Descrever as funcionalidades da ferramenta</p>
+<p>A ferramenta possui 4 níveis de acesso, a saber: colaborador, equipe de inovação, revisor e patrocinador.</p>
+1. O colaborador é responsável pela submissão de novas ideias
+2. A equipe de inovação é incumbida de realizar os primeiros processos de avaliação das ideias.
+3. Os revisores realizam a avaliação de viabilidade
+4. Os patrocinadores realizam a seleção de ideias para eventual patrocínio e implementação.
 
-<h2>Projeto</h2>
-Talvez colocar um repositório separado
