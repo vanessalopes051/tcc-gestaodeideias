@@ -29,7 +29,7 @@
 <br>
 
 <h4><li>Diagrama de Processo de Gestão de Ideias</li></h4>
-<img src="https://user-images.githubusercontent.com/54334704/129067709-c377115e-0810-453a-a8f3-ba22d3976e84.png" alt="Diagrama de Classes"/>
+<img src="https://user-images.githubusercontent.com/54334704/129067709-c377115e-0810-453a-a8f3-ba22d3976e84.png" alt="Diagrama de Processo de Gestão de Ideias"/>
 
 
 <h3>Tecnologias Utilizadas</h3>
@@ -46,4 +46,10 @@
 2. A equipe de inovação é incumbida de realizar os primeiros processos de avaliação das ideias. <br>
 3. Os revisores realizam a avaliação de viabilidade <br>
 4. Os patrocinadores realizam a seleção de ideias para eventual patrocínio e implementação.  <br>
+
+<h2>Telas</h2>
+<strong><li>Nivel de acesso do colaborador </li></strong> <br>
+<img src="https://user-images.githubusercontent.com/54334704/129072916-5bb7dcbb-9678-4651-88d1-0c2480aeae05.png" alt="Nivel de acesso do colaborador"/>
+
+
 
