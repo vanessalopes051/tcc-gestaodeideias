@@ -50,6 +50,11 @@
 <h2>Telas</h2>
 <strong><li>Nivel de acesso do colaborador </li></strong> <br>
 <img src="https://user-images.githubusercontent.com/54334704/129072916-5bb7dcbb-9678-4651-88d1-0c2480aeae05.png" alt="Nivel de acesso do colaborador"/>
+<br>
+
+<strong><li>Nivel de acesso da equipe de inovação </li></strong> <br>
+<img src="https://user-images.githubusercontent.com/54334704/129081577-cc9ddbd3-6994-4b61-9e1b-5fd5a1358a84.png" alt="Nivel de acesso do colaborador"/>
+
 
 
 
