@@ -9,13 +9,18 @@
 
 <h2>Publicações</h2>
 <p><strong>17th CONTECSI - International Conference on Information Systems and Technology Management Virtual.</strong></p>
-
-<p>><strong>Brazilian Journal of Development</strong></p>
+<li>http://contecsi.tecsi.org/index.php/contecsi/17thCONTECSI/paper/view/6452</li>
+<br>
+<p><strong>Brazilian Journal of Development</strong></p>
 <li>https://doi.org/10.34117/bjdv7n4-060</li>
 
 <h2>Objetivos</h2>
+<p>Este artigo objetiva apresentar o desenvolvimento de uma ferramenta para automatização do processo de gestão de ideias e, por fim, avaliar o modelo de processo utilizado por meio da aplicação prática da ferramenta desenvolvida.</p>
 
 <h2>Metodologia</h2>
 
 <h2>Ferramenta</h2>
 <p>Descrever as funcionalidades da ferramenta</p>
+
+<h2>Projeto</h2>
+Talvez colocar um repositório separado
