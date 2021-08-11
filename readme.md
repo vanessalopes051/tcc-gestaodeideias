@@ -7,5 +7,15 @@
 <h2>Palavras chaves</h2>
 <p>MGPDI, Gestão da Inovação, Gestão de Ideias.</p>
 
-<h2>Publicação</h2>
-<p>Artigo publicado <strong>17th CONTECSI - International Conference on Information Systems and Technology Management Virtual.</strong></p>
+<h2>Publicações</h2>
+<p><strong>17th CONTECSI - International Conference on Information Systems and Technology Management Virtual.</strong></p>
+
+<p>><strong>Brazilian Journal of Development</strong></p>
+<li>https://doi.org/10.34117/bjdv7n4-060</li>
+
+<h2>Objetivos</h2>
+
+<h2>Metodologia</h2>
+
+<h2>Ferramenta</h2>
+<p>Descrever as funcionalidades da ferramenta</p>
