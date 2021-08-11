@@ -1,0 +1,93 @@
+else if(isset($_GET['meus-planos'])){
+
+  $inovacao = new Inovacao();
+  $inovacao->setId($_SESSION['codigo']);
+  $documentos = $inovacao->visualizarDocumentos($conexao);
+?>         
+            <!-- Nav Item - Tables -->
+               <!-- Divider -->
+               <hr class="sidebar-divider d-none d-md-block">
+        
+        <!-- Sidebar Toggler (Sidebar) -->
+        <div class="text-center d-none d-md-inline">
+         <!-- -->
+        </div>
+        
+        </ul>
+        <!-- End of Sidebar -->
+        
+        <!-- Content Wrapper -->
+        <div id="content-wrapper" class="d-flex flex-column">
+        
+        <!-- Main Content -->
+        <div id="content">
+        
+          <!-- Begin Page Content -->
+          <div class="container-fluid">
+        
+          <h4 class="h3 mb-2 text-gray-800">Opções</h4>
+          <p class="mb-4"><a href="avaliacao.php">Plano de Projeto</a></p>
+
+            <!-- DataTales Example -->
+            <div class="card shadow mb-4">
+            <div class="card-header py-3">
+              <h6 class="m-0 font-weight-bold text-primary">Documentos de avaliação</h6>
+            </div>
+              <div class="card-body">
+                <div class="table-responsive">
+                  <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                    <thead>
+                      <tr>
+                        <th>codigo</th>
+                        <th>Ideia</th>
+                        <th>Link</th>
+                        <th>Tipo Aval.</th>
+                        <th>Criação</th>
+                      </tr>
+                    </thead>
+                    <tbody>
+        
+                    <?php
+                    if ($documentos) {
+                        foreach ($documentos as $key => $value) {
+                            $array = json_decode($value);
+
+                            echo "<tr>";
+                            echo "<td>".$array->id."</td>";
+                            echo "<td><a href='#'>".$array->codUsuario."</a></td>";
+                            echo "<td> <a href='".$array->link."' target='_blank'>".$array->link."</a></td>";
+                            echo "<td>".$array->tipo."</td>";
+                            echo "<td>".$array->criacao."</td>";
+                            echo "</tr>";
+                        }
+                    }else{
+                ?>
+
+                      <div class="card-body">
+                      <div class="table-responsive">
+                        <table class="table table-bordered" id="dataTable" width="100%" cellspacing="0">
+                          <p>Nenhum dado encontrado.</p>        
+                          </tbody>
+                        </table>
+                      </div>
+                    </div>
+                    
+                    <?php
+                    
+                    }
+
+                      ?>
+
+                    </tbody>
+                  </table>
+                </div>
+              </div>
+            </div>
+        
+          </div>
+          <!-- /.container-fluid -->
+
+
+<?php
+
+}
