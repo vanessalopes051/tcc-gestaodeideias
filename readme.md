@@ -9,7 +9,7 @@
 
 <h2>Publicações</h2>
 <p><strong>17th CONTECSI - International Conference on Information Systems and Technology Management Virtual.</strong></p>
-<li>http://contecsi.tecsi.org/index.php/contecsi/17thCONTECSI/paper/view/6452</li>
+<li>http://contecsi.tecsi.org/index.php/contecsi/17thCONTECSI/search/authors/view?firstName=Vanessa&middleName=&lastName=Lopes%20Abreu&affiliation=Universidade%20do%20Estado%20do%20Par%C3%A1&country=BR</li>
 <br>
 <p><strong>Brazilian Journal of Development</strong></p>
 <li>https://doi.org/10.34117/bjdv7n4-060</li>
